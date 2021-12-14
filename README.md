@@ -1,3 +1,4 @@
 # site-android
- Site do curso em video
-<a href="https://yasmimmoraes.github.io/site-android/"> executar </a>
+ Site feito com auxilio do curso do canal Curso em Video da plataforma Youtube
+ <br>
+<p>para acessar o site clique<a href="https://yasmimmoraes.github.io/site-android/">aqui</a></p>
