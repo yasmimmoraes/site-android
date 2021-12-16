@@ -184,7 +184,7 @@ aside h3{
     border-radius: 10px 10px 0px 0px;
 }
 
-footer{
+.footer{
     background-color: var(--cor5);
     color: white;
     text-align: center;
@@ -193,11 +193,12 @@ footer{
     min-height: 50px;
 }
 
-footer p{
+.footer p{
     margin-top: 15px;
+    line-height: 10px;
 }
 
-footer a{
+.footer a{
     color: white;
     text-decoration: none;
     font-weight: bolder;
@@ -205,7 +206,7 @@ footer a{
     text-align: center;
 }
 
-footer a:hover{
+.footer a:hover{
     text-decoration: underline;
     color: var(--cor1);
 }
